@@ -24,41 +24,41 @@ input.txt` содержит множество слов, разделенных
 Работа выполнялась в IntelliJ IDEA Community Edition 2023.3.4
 
 ### Вывод консоли:
-Количество слов в файле: 1082
-Самое длинное слово в файле: Raspberries
-Частота слов в файле (от большего к меньшему):
-Mango: 111
-Pear: 108
-Raspberries: 102
-Blueberry: 99
-Apple: 75
-Lemon: 72
-Strawberry: 72
-Cherry: 69
-Blackberry: 66
-Banana: 42
-Orange: 39
-Kiwi: 39
-Durian: 39
-Cabbage: 24
-Tomato: 12
-plum: 9
-nectarine: 9
-peach: 9
-Turnip: 9
-Carrot: 6
-Pumpkin: 6
-Beet: 6
-Potato: 6
-Eggplant: 6
-watermelon: 6
-melon: 6
-tangerine: 6
-Onion: 6
-Grape: 6
-mushroom: 4
-fruits: 3
-quince: 3
-persimmon: 3
-Blueavocado: 3
-pepper: 1
+Количество слов в файле: 1082  
+Самое длинное слово в файле: Raspberries  
+Частота слов в файле (от большего к меньшему):  
+Mango: 111  
+Pear: 108  
+Raspberries: 102  
+Blueberry: 99  
+Apple: 75  
+Lemon: 72  
+Strawberry: 72  
+Cherry: 69  
+Blackberry: 66  
+Banana: 42  
+Orange: 39  
+Kiwi: 39  
+Durian: 39  
+Cabbage: 24  
+Tomato: 12  
+plum: 9  
+nectarine: 9  
+peach: 9  
+Turnip: 9  
+Carrot: 6  
+Pumpkin: 6  
+Beet: 6  
+Potato: 6  
+Eggplant: 6  
+watermelon: 6  
+melon: 6  
+tangerine: 6  
+Onion: 6  
+Grape: 6  
+mushroom: 4  
+fruits: 3  
+quince: 3  
+persimmon: 3  
+Blueavocado: 3  
+pepper: 1  
